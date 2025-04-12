@@ -1,5 +1,6 @@
 from packaging import version
 
+# Slack was here yo
 __version__ = "0.81.2.dev"
 safe_version = __version__
 
